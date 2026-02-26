@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(231, 180, 255);
+}
+
+.caja {
+    margin: 8px;
+    padding: 8px;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 8px;
+    border-color: black;
+    border-left: 6px solid rgb(0, 255, 255);
+    border-right: 6px solid rgb(0, 255, 255);
+    background-color: #007bff;
+    border-radius: 8px;
+    height: 100px;
+    width: 100px;
+    color: rgb(137, 0, 0)
+}
+
+.caja2 {
+    margin: 8px;
+    padding: 8px;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 8px;
+    border-color: black;
+    border-left: 6px solid rgb(0, 255, 255);
+    border-right: 6px solid rgb(0, 255, 255);
+    background-color: #000000;
+    border-radius: 8px;
+    height: 360px;
+    width: 380px;
+    color: rgb(255, 0, 191)
+}
+
+.caja3 {
+    margin: 8px;
+    padding: 8px;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 8px;
+    border-color: black;
+    border-left: 6px solid rgb(255, 0, 0);
+    border-right: 6px solid rgb(255, 0, 0);
+    background-color: #000000;
+    border-radius: 8px;
+    height: 65px;
+    width: 400px;
+    color: rgb(255, 0, 191)
+}
